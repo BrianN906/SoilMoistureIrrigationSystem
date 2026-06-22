@@ -50,6 +50,7 @@ A demonstration of the water pump running when the manual override button is pre
 
 <br> <!-- Break -->
 
-
+## Code Explanation
+The Python script is responsible for recording the data onto the CSV and keeping the sensor readings consistent. After creating a CSV file, the program constantly tracks the time.
 
 
