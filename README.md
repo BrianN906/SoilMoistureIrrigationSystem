@@ -1,4 +1,4 @@
-# Soil Moisture Irrigation System
+# Soil Moisture Irrigation System - May 2026
 
 An automated soil irrigation system that monitors and maintains optimal soil moisture levels over extended periods of time with minimal human intervation and computer power consumption. By continuously reading soil moisture data in configurable intervals and activating a water pump only when the moisture falls below a set threshold, this system works towards reducing water waste and simplifying the work required by plantowners.
 
